@@ -9,5 +9,6 @@ public class MyClass
   {
     my_field = true;
     my_field = true;
+    my_field = true;
   }
 }
