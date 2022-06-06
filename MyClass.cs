@@ -7,7 +7,7 @@ public class MyClass
 
   public void someMethod()
   {
-    my_field = true;
+    my_field = false;
     my_field = true;
   }
 }
