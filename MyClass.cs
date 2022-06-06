@@ -5,6 +5,7 @@ public class MyClass
   public bool my_field;
   public bool my_field;
   public bool my_field;
+  public bool my_field;
 
 
   public void someMethod()
